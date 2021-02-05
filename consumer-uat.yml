@@ -1,1 +1,2 @@
-config.info: config-uat
+config: 
+  info: config-uat
